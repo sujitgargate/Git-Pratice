@@ -1,23 +1,11 @@
-# tp
-None of us have been there. I am sujit gargate.
-How did you resolve the merge conflicts?
-Hi there.
-None of us have been there. I am sujit gargate.
-How did you resolve the merge conflicts?
-Hi there.
-None of us have been there. I am sujit gargate.
-How did you resolve the merge conflicts?
-Hi there.
-None of us have been there. I am sujit gargate.
-How did you resolve the merge conflicts?
-Hi there.
-None of us have been there. I am sujit gargate.
-How did you resolve the merge conflicts?
-Hi there.
-None of us have been there. I am sujit gargate.
-How did you resolve the merge conflicts?
-Hi there.
------------------------------------
-None of us have been there. I am sujit gargate.
-How did you resolve the merge conflicts?
-Hi there.
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
